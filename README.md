@@ -1,6 +1,6 @@
-# Выпусеой проект по курсу React и Angular
+# Выпускной проект по курсу React и Angular
 
-## Перед стартом проекта неоьходимо:
+## Перед стартом проекта необходимо:
 
 > node -v
 > git clone https://github.com/AnrikoTacatti/FD3-Pauls.git
